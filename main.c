@@ -12,3 +12,8 @@ int main()
     printf("Tonmoy");
     return 0;
 }
+
+sub()
+{
+    // tonmoy
+}
