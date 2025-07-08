@@ -12,3 +12,11 @@ int main()
     printf("Tonmoy");
     return 0;
 }
+mostakin()
+{
+    // mostakin
+}
+sub()
+{
+    // tonmoy
+}
